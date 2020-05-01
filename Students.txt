@@ -5,6 +5,7 @@ Welcome to Student's Database
 Class
 Name
 
-
+Favourite Subject
+Favourite Skill
 
 Thank You
