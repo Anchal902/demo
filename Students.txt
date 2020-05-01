@@ -8,4 +8,7 @@ Name
 Favourite Subject
 Favourite Skill
 
+Age 
+Roll Number
+
 Thank You
